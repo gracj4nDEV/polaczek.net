@@ -1,2 +1,1 @@
-# polaczek.net
-stronka
+
